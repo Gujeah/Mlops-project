@@ -13,6 +13,9 @@ dvc = "*"
 pyyaml = "*"
 jupyter = "*"
 ipykernel = "*"
+dashub = "*"
+mlflow = "==2.2.2"
+dagshub = "*"
 
 [dev-packages]
 
