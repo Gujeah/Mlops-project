@@ -1,9 +1,20 @@
- scikit-learn
+scikit-learn
 xgboost
 nltk
-pandas
-numpy
-dvc
 PyYAML
 jupyter
 ipykernel
+boto3
+Flask
+Flask_Cors
+joblib
+lightgbm
+matplotlib
+mlflow
+dvc
+dvc[s3]
+nltk
+numpy
+pandas
+wordcloud
+seaborn
